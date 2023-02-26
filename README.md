@@ -1,4 +1,4 @@
-> It's going to get cloudy! 🌩 ☂️
+> It's going to get cloudy! RICARDO DEL ANGEL 🌩 ☂️
 > The Appwrite Cloud is coming soon! You can learn more about our upcoming hosted solution and signup for free credits at: https://appwrite.io/cloud
 
 <br />
